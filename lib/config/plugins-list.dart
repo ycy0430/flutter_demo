@@ -146,4 +146,10 @@ List<Map> plugins = [
     "pub_url": "https://pub.dev/packages/provider",
     "routeName": "/provider"
   },
+  {
+    "plugin_name": "Dio",
+    "title": "Dio使用",
+    "pub_url": "https://pub.dev/packages/dio",
+    "routeName": "/dio"
+  },
 ];

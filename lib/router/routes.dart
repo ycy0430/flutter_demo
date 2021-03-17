@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_demo/pages/plugins/animated_text_kit/demo.dart';
 import 'package:flutter_demo/pages/plugins/bot_toast/demo.dart';
 import 'package:flutter_demo/pages/plugins/curved_navigation_bar/demo.dart';
+import 'package:flutter_demo/pages/plugins/dio/demo.dart';
 import 'package:flutter_demo/pages/plugins/drag_list/demo.dart';
 import 'package:flutter_demo/pages/plugins/flip_card/demo.dart';
 import 'package:flutter_demo/pages/plugins/flutter_custom_clippers/demo.dart';
@@ -52,4 +53,7 @@ Map<String, WidgetBuilder> routes = {
   '/passcode_screen': (BuildContext context) => new PassCodeScreenDemo(),
   '/scratcher': (BuildContext context) => new ScratcherDemo(),
   '/provider': (BuildContext context) => new Providerdemo(),
+  '/dio': (BuildContext context) => new DioDemo(),
+
+
 };
