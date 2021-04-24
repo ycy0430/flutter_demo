@@ -31,8 +31,8 @@ dependencies:
   english_words: ^3.1.5
   get: ^4.0.0-nullsafety.2
   html: ^0.15.0
-  gkd_tool_package:
-    path: /Users/yangchengye/Documents/GitLab/gkd_flutter_module/local_package/gkd_tool_package
+  # gkd_tool_package:
+  #   path: /Users/yangchengye/Documents/GitLab/gkd_flutter_module/local_package/gkd_tool_package
   
   # flutter_webview_plugin: ^0.3.11
   # # flutter_staggered_animations: ^0.1.2
